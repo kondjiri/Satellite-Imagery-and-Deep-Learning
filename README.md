@@ -11,3 +11,6 @@ This repo contains my graduation project in Deep learning and Satellite Imagery:
 - 5. ROC and AUC
 - 6. Data Augmentation 
 - 7. GUI (Tkinter)
+
+
+# If you have any questions or suggestions, please feel free to contact me on kondjirif@gmail.com
